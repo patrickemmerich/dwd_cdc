@@ -1,0 +1,10 @@
+.cache/
+.eggs/
+.idea/
+
+src/dwd_cdc.egg-info/
+
+*.pyc
+tests/.coverage
+tests/coverage.xml
+tests/junit.xml
