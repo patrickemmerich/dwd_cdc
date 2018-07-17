@@ -12,7 +12,7 @@ setup(
     use_scm_version=True,
     setup_requires=['setuptools_scm'],
     description="""Show Climate Information from DWD CDC""",
-    author='Patrick Emmerich <patrick.emmerich@blue-yonder.com>',
+    author='Patrick Emmerich <mail@patrick-emmerich.de>',
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     include_package_data=True,
